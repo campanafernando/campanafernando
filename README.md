@@ -7,10 +7,13 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="campana-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="campana-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="campana-Node" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="campana-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="campana-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="campana-FASTAPI" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="campana-FASTAPI" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">   
+  <img align="center" alt="campana-FLASK" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+  <img align="center" alt="campana-POSTGRES" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="campana-POSTGRES" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="campana-DOCKER" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="campana-GIT" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
   
   ##
