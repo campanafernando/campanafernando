@@ -8,8 +8,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="campana-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="campana-FASTAPI" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
-  <img align="center" alt="campana-FASTAPI" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">   
-  <img align="center" alt="campana-FLASK" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
   <img align="center" alt="campana-POSTGRES" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="campana-POSTGRES" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="campana-DOCKER" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
