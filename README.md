@@ -10,7 +10,7 @@
   <img align="center" alt="campana-POSTGRES" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="campana-POSTGRES" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="campana-DOCKER" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="campana-GIT" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<!--   <img align="center" alt="campana-GIT" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> -->
 </div>
   
   ##
