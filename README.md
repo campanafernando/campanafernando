@@ -1,23 +1,43 @@
-## 👋 Olá meu nome é Fernando Campana!
+# 👋 Olá, eu sou o Fernando Campana!
 
-<div>
-   <a href="https://github.com/campanafernando">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campanafernando&layout=compact&langs_count=7&theme=merko"/> 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="campana-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="campana-FASTAPI" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
-  <img align="center" alt="campana-POSTGRES" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="campana-POSTGRES" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="campana-DOCKER" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-<!--   <img align="center" alt="campana-GIT" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> -->
-</div>
-  
-  ##
-  
-   <div> 
-  <a href = "mailto:fernandocampana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/campanafernandodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/fernandocmpn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-</div>
+<p align="left">
+  <a href="https://linkedin.com/in/campanafernandodev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:fernandocampana@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://instagram.com/fernandocmpn/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+---
+
+## 🚀 Sobre Mim
+
+Sou um desenvolvedor focado em construir soluções robustas e eficientes, com forte experiência no ecossistema Python e gerenciamento de bancos de dados. 
+
+* 🛠️ Atualmente focado em desenvolvimento de APIs de alta performance.
+* 🐳 Entusiasta de DevOps, utilizando Docker para containerização e deploy.
+* 📈 Sempre buscando otimizar queries e arquitetura de dados.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+Aqui estão as principais tecnologias com as quais trabalho no meu dia a dia:
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=46cbd4) |
+| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
+| **DevOps & Infra** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campanafernando&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+</p>
