@@ -38,11 +38,3 @@ Desenvolvedor Backend com sólida experiência no ecossistema Python, arquitetur
 | **Mensageria & Cache** | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-373A3C?style=flat&logo=celery&logoColor=white) |
 | **DevOps & Ferramentas** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux / Shell](https://img.shields.io/badge/Linux_/_Shell-FCC624?style=flat&logo=linux&logoColor=black) |
 | **Metodologias & Práticas**| `Metodologias Ágeis` • `CI/CD` • `Clean Coding` • `Boas Práticas de Desenvolvimento` • `Modelagem e Administração de Banco de Dados` |
-
----
-
-## Indicadores de Atividade
-
-<p align="center">
-  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campanafernando&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais utilizadas" />
-</p>
